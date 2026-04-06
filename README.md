@@ -84,7 +84,7 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 <p align="center">
   <a href="https://www.linkedin.com/in/tomiwa-adeyemi-b97b98303">💼 Connect on LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://x.com/hapothecaryjosh">🐦 Follow on X</a> &nbsp;|&nbsp;
-  <a href="#">🌐 Visit My Portfolio</a>
+  <a href="https://tomiwa-adeyemi-porfolio.vercel.app/">🌐 Visit My Portfolio</a>
 </p>
 
 ---
