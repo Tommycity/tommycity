@@ -35,6 +35,8 @@ I'm a **Fullstack Software Engineer** with 2–5 years of experience crafting en
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-FF5722?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -53,27 +55,27 @@ I'm a **Fullstack Software Engineer** with 2–5 years of experience crafting en
 
 ## 🚀 Featured Projects
 
-### 🔹 [DataVene](https://github.com/Tommycity)
+### 🔹 [DataVene](https://blessingayewa.com)
 > A portfolio website that doubles as a data science blog — sharing knowledge, tutorials, and insights to help others break into the world of data.
 
-**Stack:** Next.js · TypeScript · MongoDB
+**Stack:** React.js · JavaScript · MongoDB
+
+---
+
+### 🔹 [BlueGrid Entertainment](https://bluegrident.com/)
+> A full platform for a music distribution and promotion company — helping artists and record labels get their music heard and their brand grown.
+
+**Stack:** React · JavaScript.js · Express · MongoDB · AWS
 
 ---
 
 ### 🔹 [Brandpro](#)
 > A sleek, conversion-focused landing page for a branding company — designed to communicate brand identity and drive client engagement.
 
-**Stack:** React · Node.js · TypeScript
+**Stack:** React · JavaScript.js · Express.js
 
 ---
 
-### 🔹 [BlueGrid Entertainment](#)
-> A full platform for a music distribution and promotion company — helping artists and record labels get their music heard and their brand grown.
-
-**Stack:** React · Node.js · Express · MongoDB · AWS
-
-
----
 
 ## 🤝 Let's Connect
 
